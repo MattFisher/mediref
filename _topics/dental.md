@@ -15,7 +15,7 @@ Therefore, basic knowledge of teeth anatomy is required, as referral to other he
 
 ## Anatomy
 
-![Cross-section of a tooth](/assets/dental/tooth-anatomy.png)
+![Cross-section of a tooth](../assets/dental/tooth-anatomy.png)
 
 ### Organization:
 
@@ -78,11 +78,11 @@ The FDI (Federation Dentaire Internationale) classification is used in Australia
 
 It involves dividing the mouth up into four quadrants, with teeth numbered accordingly, beginning with the (patient’s) right upper quadrant.
 
-![Numbering of the permanent teeth](/assets/dental/teeth-numbering-permanent.png)
+![Numbering of the permanent teeth](../assets/dental/teeth-numbering-permanent.png)
 
 Primary (deciduous) teeth are also named in a similar fashion, beginning with 51.
 
-![Numbering of the primary teeth](/assets/dental/teeth-numbering-primary.png)
+![Numbering of the primary teeth](../assets/dental/teeth-numbering-primary.png)
 
 It can be difficult to distinguish primary teeth from permanent teeth. 
 
@@ -93,7 +93,7 @@ However, the following points may help:
 
 In cases of mixed dentition (i.e. deciduous and permanent) a combination of the adult and child systems is used.
 
-![Numbering of mixed teeth](/assets/dental/teeth-numbering-mixed.png)
+![Numbering of mixed teeth](../assets/dental/teeth-numbering-mixed.png)
 
 ### Spatial Terminology:
 
