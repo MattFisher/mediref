@@ -3,7 +3,7 @@ layout: default
 ---
 # Teeth Anatomy
 
-![“The Autumn Fairy”, from “Elves and Fairies”, Ida Rentoul Outhwaite, 1916](/assets/dental/fairy.jpeg)
+![“The Autumn Fairy”, from “Elves and Fairies”, Ida Rentoul Outhwaite, 1916](../assets/dental/fairy.jpeg)
 
 _As tooth fairies only come at night when you are asleep no human eye has even beheld one. World renowned fairy expert Ms Saskia Hayes, after extensive research at the age of 5 years however was able to ascertain that they are a very closely related species to the well documented “Autumn Fairy”. Ms Hayes during her researches found it essential therefore to obtain an original print of a real Autumn fairy that was seen and hastily drawn from life by one of Australia’s greatest children’s book illustrators, Ida Rentoul Outhwaite in 1916. This is the last reliably documented sighting of a real Autumn Fairy. It was upon this basis she was able to convince her father to purchase the above print at great cost. It is essential for all Fairy experts to have a thorough working knowledge of when the “milk” teeth are lost if the “Holy Grail” of sighting a real tooth fairy is ever to be achieved. You need to be able to anticipate when they are likely to show themselves._ 
 
