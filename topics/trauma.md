@@ -1,3 +1,0 @@
-# Trauma
-
-## Gunshot Wounds (GSW)
